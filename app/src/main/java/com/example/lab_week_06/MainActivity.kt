@@ -66,6 +66,55 @@ class MainActivity : AppCompatActivity() {
                     "Curious George",
                     "Award winning investigator",
                     "https://cdn2.thecatapi.com/images/bar.jpg"
+                ),
+                CatModel(
+                    Gender.Female,
+                    CatBreed.Abyssinian,
+                    "Luna",
+                    "Elegant and curious",
+                    "https://cdn2.thecatapi.com/images/0XYvRd7oD.jpg"
+                ),
+                CatModel(
+                    Gender.Male,
+                    CatBreed.MaineCoon,
+                    "Leo",
+                    "The gentle giant",
+                    "https://cdn2.thecatapi.com/images/MTY3ODIyMQ.jpg"
+                ),
+                CatModel(
+                    Gender.Male,
+                    CatBreed.Bengal,
+                    "Simba",
+                    "Active and talkative",
+                    "https://cdn2.thecatapi.com/images/O3btzLlsO.jpg"
+                ),
+                CatModel(
+                    Gender.Female,
+                    CatBreed.Sphynx,
+                    "Nala",
+                    "Loves warm blankets",
+                    "https://cdn2.thecatapi.com/images/4RzEwvyZZ.jpg"
+                ),
+                CatModel(
+                    Gender.Unknown,
+                    CatBreed.BritishShorthair,
+                    "Shadow",
+                    "Calm and quiet",
+                    "https://cdn2.thecatapi.com/images/s4wQfYoEk.jpg"
+                ),
+                CatModel(
+                    Gender.Male,
+                    CatBreed.Persian,
+                    "Oscar",
+                    "Always sleepy",
+                    "https://cdn2.thecatapi.com/images/LYoYqNfDC.jpg"
+                ),
+                CatModel(
+                    Gender.Female,
+                    CatBreed.Siamese,
+                    "Mimi",
+                    "Elegant and vocal",
+                    "https://cdn2.thecatapi.com/images/ai6Jps4sx.jpg"
                 )
             )
         )
